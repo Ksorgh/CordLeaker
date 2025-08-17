@@ -1,6 +1,6 @@
 # CordLeaker
 Плагин позволяет игрокам и администраторам быстро узнать координаты другого игрока с помощью простой команды /cord.
-Название: PlayerCoordinates (или CordFinder)
+Название: CordLeacker
 Версия: 1.0
 Автор: ksor
 Поддерживаемые платформы: Spigot/Bukkit/Purpur, PaperMC.
