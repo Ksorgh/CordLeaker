@@ -1,0 +1,13 @@
+name: CordLeacker
+version: 1.0
+main: com.ksor.cordleacker.CordLeacker
+api-version: 1.21
+author: ksor
+commands:
+  cord:
+    description: Показывает координаты игрока
+    usage: /cord <ник>
+permissions:
+  cordleacker.use:
+    description: Разрешает использование команды /cord
+    default: op
